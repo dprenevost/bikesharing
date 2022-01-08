@@ -27,9 +27,9 @@
 
 
 
-# Summary: Overall with the data we collected this program seemed to be well adpoted by the NYC residents. 
+# Summary: Overall, with the data we collected, this program seemed to be well adpoted by the NYC residents. 
 However, trying to adapt this for a city in Iowa would be challenging.
-as you can see from the following 2 maps, NYC has a much higher population density and the average trips are quite low in duration.  Having a city that has a much wider area and on average a longer trip time may not be able to support this type of success with the CitiBike model.
+As you can see from the following 2 maps, NYC has a much higher population density and the average trips are quite low in duration.  Having a city that has a much wider area and on average a longer trip time may not be able to support this type of success with the CitiBike model.  This will also add many more factors in cost increase and maintenance issues.
 
 ![Top Starting Locations NYC](https://user-images.githubusercontent.com/91210001/148654048-738dc47d-5cb2-4149-a9c1-896a5ce5e210.PNG)
 This map shows the most used starting locations for the CitiBike in NYC. 
